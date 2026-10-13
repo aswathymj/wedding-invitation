@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">A soft pastel wedding illustration</title>
+  <desc id="desc">A bride and groom in traditional wedding clothes beneath a delicate floral arch.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fcf9fd"/><stop offset="1" stop-color="#eee8f3"/></linearGradient>
+    <linearGradient id="sari" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5dce5"/><stop offset="1" stop-color="#ddaebe"/></linearGradient>
+    <linearGradient id="veshti" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fffdf6"/><stop offset="1" stop-color="#e9e0d0"/></linearGradient>
+  </defs>
+  <rect width="900" height="500" rx="18" fill="url(#paper)"/>
+  <circle cx="450" cy="210" r="175" fill="#e5dceb" opacity=".36"/>
+  <path d="M240 414V220c0-120 94-190 210-190s210 70 210 190v194" fill="none" stroke="#a992ba" stroke-width="5" opacity=".58"/>
+  <path d="M261 414V222c0-106 82-169 189-169s189 63 189 169v192" fill="none" stroke="#d5c8df" stroke-width="2"/>
+  <path d="M242 142c23 1 27 24 8 34 22 7 23 29 1 36m407-70c-23 1-27 24-8 34-22 7-23 29-1 36" fill="none" stroke="#b7a0c5" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#d99eb3" opacity=".82"><circle cx="264" cy="137" r="7"/><circle cx="248" cy="168" r="6"/><circle cx="253" cy="202" r="7"/><circle cx="636" cy="137" r="7"/><circle cx="652" cy="168" r="6"/><circle cx="647" cy="202" r="7"/></g>
+  <path d="M345 433c16-62 55-94 105-94s89 32 105 94" fill="#e8dfed"/>
+  <ellipse cx="450" cy="437" rx="158" ry="20" fill="#d8ccdf" opacity=".46"/>
+  <!-- Bride -->
+  <path d="M346 176c-7-48 20-82 61-82 42 0 68 31 62 80l-6 38h-109z" fill="#514557"/>
+  <ellipse cx="407" cy="157" rx="38" ry="47" fill="#e9c6b3"/>
+  <path d="M370 147c4-42 21-61 48-61 28 0 48 24 48 57-12-11-23-26-27-40-14 20-39 34-69 39z" fill="#423747"/>
+  <circle cx="448" cy="113" r="20" fill="#514557"/>
+  <path d="M377 149c10-7 15-17 19-28m51 19c-7-8-12-18-14-28" fill="none" stroke="#382e3d" stroke-width="7" stroke-linecap="round"/>
+  <path d="M389 159h5m23 0h5" stroke="#55424a" stroke-width="3" stroke-linecap="round"/>
+  <path d="M401 178q7 6 14 0" fill="none" stroke="#b8747f" stroke-width="2" stroke-linecap="round"/>
+  <path d="M370 198c-29 21-42 64-46 132l-7 89h169l-10-126c-4-47-18-79-47-94z" fill="url(#sari)"/>
+  <path d="M371 203c26 32 51 65 88 108l27 108h-29l-38-81-67-91z" fill="#f4dce5" stroke="#c696ae" stroke-width="3"/>
+  <path d="M319 406h168l4 16H317z" fill="#b89269" opacity=".8"/>
+  <path d="M382 202c12 18 32 21 52 0" fill="none" stroke="#b78d58" stroke-width="5"/>
+  <path d="M390 211c10 21 27 22 37 0m-32 8c8 16 18 17 27 0" fill="none" stroke="#b58a58" stroke-width="2"/>
+  <circle cx="407" cy="111" r="5" fill="#b78d58"/><path d="M407 116v20" stroke="#b78d58" stroke-width="3"/>
+  <path d="M369 165c-10 20-8 34 3 43m77-43c10 20 8 34-3 43" fill="none" stroke="#d1a46e" stroke-width="3"/>
+  <!-- Groom -->
+  <ellipse cx="511" cy="157" rx="38" ry="47" fill="#dfbda8"/>
+  <path d="M473 145c3-39 19-58 43-60 29-2 44 19 45 56-18-2-34-12-44-26-10 15-24 24-44 30z" fill="#392f3c"/>
+  <path d="M491 160h5m23 0h5" stroke="#51434b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M502 179q8 5 16-1" fill="none" stroke="#a66e71" stroke-width="2" stroke-linecap="round"/>
+  <path d="M477 199c-27 13-41 48-44 103l-6 119h171l-8-128c-3-50-18-82-47-96z" fill="#efe7d9"/>
+  <path d="M469 206c22 8 62 9 82 0l18 119H452z" fill="#f8f4ea"/>
+  <path d="M427 406h174l-2 17H425z" fill="#d0b77f"/>
+  <path d="M478 199c11 15 27 16 42 0" fill="none" stroke="#b58a58" stroke-width="4"/>
+  <path d="M494 206q16 25 31 0m-26 12q12 18 22 0" fill="none" stroke="#b58a58" stroke-width="2"/>
+  <!-- Joined hands and flower garland -->
+  <path d="M455 280c-8 22-7 40 4 52m-4-5c15 10 31 10 43 0" fill="none" stroke="#d4a995" stroke-width="12" stroke-linecap="round"/>
+  <path d="M438 218c15 27 28 38 45 39s33-12 48-39" fill="none" stroke="#d4a8bc" stroke-width="7" stroke-linecap="round"/>
+  <g fill="#f4d8e2" stroke="#c797ad" stroke-width="1"><circle cx="444" cy="228" r="6"/><circle cx="453" cy="239" r="6"/><circle cx="466" cy="248" r="6"/><circle cx="480" cy="252" r="6"/><circle cx="495" cy="248" r="6"/><circle cx="508" cy="239" r="6"/><circle cx="517" cy="228" r="6"/></g>
+  <g fill="#b39bc4" opacity=".72"><path d="M307 95c-8-15 10-23 18-8 7-15 25-7 17 8-6 10-17 17-17 17s-12-7-18-17zm254-5c-8-15 10-23 18-8 7-15 25-7 17 8-6 10-17 17-17 17s-12-7-18-17z"/></g>
+</svg>

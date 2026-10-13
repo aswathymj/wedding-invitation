@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Pastel Hindu wedding cartoon</title>
+  <desc id="desc">A bride and groom in traditional attire beneath a flower-decorated mandap, with garlands and a small sacred fire.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fbf8fd"/><stop offset="1" stop-color="#eee8f4"/></linearGradient>
+    <linearGradient id="brideSari" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8e4eb"/><stop offset="1" stop-color="#d9aec5"/></linearGradient>
+    <linearGradient id="goldTrim" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#d3b576"/><stop offset=".5" stop-color="#f3e2b5"/><stop offset="1" stop-color="#c4a064"/></linearGradient>
+  </defs>
+  <rect width="900" height="500" rx="18" fill="url(#bg)"/>
+  <circle cx="450" cy="214" r="190" fill="#e4d9ec" opacity=".35"/>
+  <!-- mandap -->
+  <path d="M225 432V190C225 91 318 35 450 35s225 56 225 155v242" fill="none" stroke="#9b83ae" stroke-width="8" opacity=".62"/>
+  <path d="M248 432V190C248 104 334 56 450 56s202 48 202 134v242" fill="none" stroke="#d3c5dc" stroke-width="3"/>
+  <path d="M198 153Q450 223 702 153" fill="none" stroke="#b49ac2" stroke-width="5"/>
+  <path d="M215 159Q450 217 685 159" fill="none" stroke="#d8c6df" stroke-width="2"/>
+  <g fill="#e6b5c6" stroke="#c596af" stroke-width="1">
+    <circle cx="224" cy="155" r="9"/><circle cx="261" cy="168" r="8"/><circle cx="300" cy="179" r="8"/><circle cx="340" cy="189" r="8"/><circle cx="380" cy="197" r="8"/><circle cx="420" cy="202" r="8"/><circle cx="480" cy="202" r="8"/><circle cx="520" cy="197" r="8"/><circle cx="560" cy="189" r="8"/><circle cx="600" cy="179" r="8"/><circle cx="639" cy="168" r="8"/><circle cx="676" cy="155" r="9"/>
+  </g>
+  <g fill="#a9a0bd" opacity=".8"><path d="M281 111c-11-17 12-28 22-9 10-19 33-8 22 9-8 13-22 22-22 22s-14-9-22-22zm294 0c-11-17 12-28 22-9 10-19 33-8 22 9-8 13-22 22-22 22s-14-9-22-22z"/></g>
+  <!-- soft floor -->
+  <ellipse cx="450" cy="437" rx="225" ry="22" fill="#d8cce1" opacity=".55"/>
+  <!-- bride veil and hair -->
+  <path d="M337 185c-8-60 19-100 67-100 50 0 76 39 68 100l-9 75H346z" fill="#e5c9dc" opacity=".76"/>
+  <ellipse cx="404" cy="158" rx="38" ry="46" fill="#eac7b5"/>
+  <path d="M366 153c1-46 17-70 43-72 30-3 49 24 46 67-12-7-23-20-29-37-12 19-32 33-60 42z" fill="#473b4b"/>
+  <circle cx="448" cy="111" r="19" fill="#473b4b"/>
+  <path d="M374 150c8-3 13-9 17-17m39-1c5 8 10 14 18 18" fill="none" stroke="#3f3543" stroke-width="6" stroke-linecap="round"/>
+  <path d="M389 158h6m22 0h6" stroke="#5a4650" stroke-width="3" stroke-linecap="round"/>
+  <path d="M399 177q7 6 14 0" fill="none" stroke="#b87683" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="404" cy="115" r="5" fill="#a987b2"/><path d="M404 120v18" stroke="#a987b2" stroke-width="3"/>
+  <!-- bride sari -->
+  <path d="M367 200c-29 18-43 54-48 111l-9 107h177l-10-128c-4-49-18-78-48-93z" fill="url(#brideSari)"/>
+  <path d="M365 205c24 33 54 65 101 108l20 105h-31l-36-75-76-103z" fill="#f4dfe8" stroke="#c598ae" stroke-width="3"/>
+  <path d="M313 405h173l3 15H311z" fill="url(#goldTrim)"/>
+  <path d="M379 202c12 18 33 22 53 0" fill="none" stroke="url(#goldTrim)" stroke-width="6"/>
+  <path d="M388 211c10 21 28 22 38 0m-33 9c8 17 20 17 29 0" fill="none" stroke="#b7935d" stroke-width="2.5"/>
+  <path d="M375 164c-7 21-4 34 5 44m53-44c7 21 4 34-5 44" fill="none" stroke="#d0a979" stroke-width="3"/>
+  <!-- groom sherwani and veshti -->
+  <ellipse cx="508" cy="158" rx="38" ry="46" fill="#dfbba6"/>
+  <path d="M470 148c4-42 20-63 45-65 27-2 43 21 44 59-16-3-32-13-43-29-10 17-25 27-46 35z" fill="#3e3442"/>
+  <path d="M487 159h6m22 0h6" stroke="#4c3e48" stroke-width="3" stroke-linecap="round"/>
+  <path d="M498 178q8 5 16-1" fill="none" stroke="#aa7178" stroke-width="2" stroke-linecap="round"/>
+  <path d="M474 200c-27 15-40 48-43 104l-6 114h171l-8-126c-4-50-18-80-47-94z" fill="#f5f0e5"/>
+  <path d="M464 211c24 8 66 8 88 0l18 114H448z" fill="#fffdf6"/>
+  <path d="M425 405h174l-2 15H423z" fill="url(#goldTrim)"/>
+  <path d="M477 201c11 15 27 17 43 0" fill="none" stroke="#b58d59" stroke-width="4"/>
+  <path d="M490 211c10 18 28 18 38 0" fill="none" stroke="#b58d59" stroke-width="2.5"/>
+  <path d="M464 220 484 242" stroke="#a58ab3" stroke-width="9" stroke-linecap="round"/>
+  <!-- exchanged flower garlands -->
+  <path d="M434 220c10 29 23 43 39 43s30-14 40-43" fill="none" stroke="#c89ab4" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#f5dce6" stroke="#c899b0" stroke-width="1"><circle cx="440" cy="231" r="6"/><circle cx="450" cy="243" r="6"/><circle cx="463" cy="253" r="6"/><circle cx="478" cy="257" r="6"/><circle cx="493" cy="253" r="6"/><circle cx="506" cy="243" r="6"/><circle cx="516" cy="231" r="6"/></g>
+  <!-- sacred fire in a small havan kund -->
+  <path d="M396 415h108l-14 44h-80z" fill="#d8c5dc" stroke="#a892b4" stroke-width="3"/>
+  <path d="M408 423h84l-6 23h-72z" fill="#f1e4ee"/>
+  <path d="M433 414c-11-17 6-24 3-42 17 13 18 21 13 29 14-11 16-24 13-34 23 23 20 39 5 49z" fill="#e9b87d"/>
+  <path d="M445 414c-4-10 5-15 5-25 11 11 12 19 5 25z" fill="#f4d9a7"/>
+  <g fill="#b99ac0"><circle cx="370" cy="433" r="3"/><circle cx="532" cy="433" r="3"/><circle cx="355" cy="421" r="2.5"/><circle cx="547" cy="421" r="2.5"/></g>
+</svg>
